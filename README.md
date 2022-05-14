@@ -1,4 +1,4 @@
-# Orr_Sommerfeld
+# Orr Sommerfeld package
 It is a python package developed in order to solve the Orr Sommerfeld equations. It is free for the community and allows to calculate disturbances for 4 flows of interest: Poiseuille, Couette, Boundary Layer and jet. These perturbations can be used to analyze the phenomenon of the laminar-turbulent transition. 
  
 ## Table of contents
