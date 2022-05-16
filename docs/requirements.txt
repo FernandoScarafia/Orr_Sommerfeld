@@ -1,0 +1,13 @@
+notebook
+ipykernel
+numpy
+scipy
+matplotlib
+datashader
+sphinx>=1.4
+nbsphinx
+sphinx-autobuild
+numpy-stl
+hypothesis
+versioneer
+
