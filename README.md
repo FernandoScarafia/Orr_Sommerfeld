@@ -23,7 +23,7 @@ Project is created with:
 ## Installation
 It is possible to install using pip:
 ```Python
-pip install Orr_Sommerfield
+pip install Orr_Sommerfeld
 ```
 ## Examples
 * Importing the package:
